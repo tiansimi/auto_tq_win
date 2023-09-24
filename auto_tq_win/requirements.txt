@@ -1,0 +1,11 @@
+requests
+allure-pytest
+opencv-python
+psutil
+json_tools
+pyscreenshot
+pillow
+pyperclip
+jsonpath
+pyautogui
+pynput
